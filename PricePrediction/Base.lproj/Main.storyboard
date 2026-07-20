@@ -159,7 +159,7 @@
                         <outlet property="condition" destination="hd1-9M-tar" id="q1D-Ve-QSB"/>
                         <outlet property="garageCapacity" destination="Qq6-Sy-0x5" id="8p5-6s-pAI"/>
                         <outlet property="numberOfBathrooms" destination="IFZ-3p-gTO" id="ATy-eC-3AF"/>
-                        <outlet property="numberOfRoos" destination="gG6-tJ-gFH" id="oVV-VN-Aki"/>
+                        <outlet property="numberOfRooms" destination="gG6-tJ-gFH" id="oVV-VN-Aki"/>
                         <outlet property="result" destination="FL6-53-cXW" id="HCP-e3-xgp"/>
                         <outlet property="sizeLabel" destination="xI1-Pq-3Dh" id="6Pw-WW-dEZ"/>
                         <outlet property="sizeSlider" destination="yOi-uO-bBM" id="o6q-dR-u5d"/>
